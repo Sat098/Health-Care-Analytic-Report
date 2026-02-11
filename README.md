@@ -1,3 +1,5 @@
+🏥 Health Care Dashboard
+
 📌 Project Overview
 
 This project is an interactive Power BI dashboard built to analyze health care data.
@@ -6,17 +8,11 @@ It provides insights into patient admissions, treatments, diagnoses, outcomes, a
 The dashboard helps track key health metrics in a clear and simple format.
 
 📈 Dashboard Features
-
 - Patient count by Doctor
-
 - Outcome analysis (Recovered, Deceased, Improved, Critical)
-
 - Diagnosis-wise patient distribution
-
 - Treatment-wise patient count
-
 - Emergency admission and mortality rate tracking
-
 - Filters for Department, Admission Type, Insurance Type, and Gender
 
 🔗 Live Dashboard
