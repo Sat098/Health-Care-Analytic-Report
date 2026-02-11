@@ -1,30 +1,25 @@
-# 🏥 Healthcare Analytics Dashboard
+📌 Project Overview
 
-This repository contains my Healthcare Analytics project built using Power BI.
+This project is an interactive Power BI dashboard built to analyze health care data.
+It provides insights into patient admissions, treatments, diagnoses, outcomes, and overall hospital performance.
 
-## 📌 Project Overview
+The dashboard helps track key health metrics in a clear and simple format.
 
-This project focuses on analyzing healthcare data to generate meaningful insights that help in decision-making.  
-The dashboard provides clear visualizations of key healthcare metrics and performance indicators.
+📈 Dashboard Features
 
-## 📊 Tools Used
+Patient count by Doctor
 
-- Power BI
-- Data Cleaning & Transformation
-- DAX Calculations
-- Data Visualization
+Outcome analysis (Recovered, Deceased, Improved, Critical)
 
-## 📈 Key Insights Covered
+Diagnosis-wise patient distribution
 
-- Patient admission trends
-- Department-wise performance
-- Treatment cost analysis
-- Monthly and yearly comparisons
-- KPI tracking for healthcare operations
+Treatment-wise patient count
 
-## 🔗 Explore Dashboard
+Emergency admission and mortality rate tracking
 
-You can view the interactive Power BI dashboard here:
+Filters for Department, Admission Type, Insurance Type, and Gender
 
-👉 **[Click to View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2M0ZTJkMTQtMGMzMy00NmJmLWJjMzctZTEwYjUzNzU2ZGZiIiwidCI6IjRkNmM2YzlhLWJjNDEtNDZiMi1hYjg2LTQ1YzQ4YzZhMWY0OSJ9)**
+🔗 Live Dashboard
 
+👉 Power BI Public Link:
+https://app.powerbi.com/view?r=eyJrIjoiM2M0ZTJkMTQtMGMzMy00NmJmLWJjMzctZTEwYjUzNzU2ZGZiIiwidCI6IjRkNmM2YzlhLWJjNDEtNDZiMi1hYjg2LTQ1YzQ4YzZhMWY0OSJ9
