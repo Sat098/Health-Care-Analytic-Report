@@ -7,17 +7,17 @@ The dashboard helps track key health metrics in a clear and simple format.
 
 📈 Dashboard Features
 
-Patient count by Doctor
+- Patient count by Doctor
 
-Outcome analysis (Recovered, Deceased, Improved, Critical)
+- Outcome analysis (Recovered, Deceased, Improved, Critical)
 
-Diagnosis-wise patient distribution
+- Diagnosis-wise patient distribution
 
-Treatment-wise patient count
+- Treatment-wise patient count
 
-Emergency admission and mortality rate tracking
+- Emergency admission and mortality rate tracking
 
-Filters for Department, Admission Type, Insurance Type, and Gender
+- Filters for Department, Admission Type, Insurance Type, and Gender
 
 🔗 Live Dashboard
 
