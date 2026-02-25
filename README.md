@@ -18,4 +18,4 @@ The dashboard helps track key health metrics in a clear and simple format.
 🔗 Live Dashboard
 
 👉 Power BI Public Link:
-https://app.powerbi.com/view?r=eyJrIjoiM2M0ZTJkMTQtMGMzMy00NmJmLWJjMzctZTEwYjUzNzU2ZGZiIiwidCI6IjRkNmM2YzlhLWJjNDEtNDZiMi1hYjg2LTQ1YzQ4YzZhMWY0OSJ9
+https://app.powerbi.com/view?r=eyJrIjoiYWUyNzRmNWUtNmJhZS00Yjk2LTg0ZTYtNWU2ZDM1NmI2YjczIiwidCI6IjRkNmM2YzlhLWJjNDEtNDZiMi1hYjg2LTQ1YzQ4YzZhMWY0OSJ9
