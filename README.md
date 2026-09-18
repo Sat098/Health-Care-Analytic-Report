@@ -15,7 +15,7 @@ The dashboard helps track key health metrics in a clear and simple format.
 - Emergency admission and mortality rate tracking
 - Filters for Department, Admission Type, Insurance Type, and Gender
 
-  Climate Dataset 📷 Dashboard Preview
+  Health Dataset 📷 Dashboard Preview
   <img width="1170" height="668" alt="image" src="https://github.com/user-attachments/assets/ee77d70f-7e58-4440-ac5c-71fdff9358dc" />
 
 🔗 Live Dashboard
